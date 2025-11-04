@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/cities-and-towns/jkaverstelle/pavarax-s-frosthold/knightly-order-of-the-world-tree/","created":"2025-10-28T15:20:32.737-04:00","updated":"2025-11-04T17:11:30.376-05:00"}
+---
+
+> “The first Tenet of the [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/Knightly Order of the World Tree\|Order]]: that which is given must be repaid. Our Tree gives us life, and so in turn we keep it alive. Others will seek to give us death, and under my tutelage you will learn to repay them with their own blood.” 
+> 
+> *Overheard spoken to a small class of trainees of the Order of the World Tree*
+> *Knightmaster Abigail Verdant, frequent instructor in martial weapons, 3698 ASC*
+# Basic Information
+
+The [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/Knightly Order of the World Tree\|Knightly Order of the World Tree]], or just the Order, is a semi-nomadic clan of knights standing for honor, goodness, and the defense of the [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/World Tree\|World Tree]]. Headquartered in [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/Pavarax's Frosthold\|Pavarax's Frosthold]], the Order originated at the beginning of the [[The Ages/Third Age\|Third Age]] to defend and tend to the [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/World Tree\|World Tree]]—a divine ash tree said to hold the lands of [[The World/Dor'Balar\|Dor'Balar]] together. As the stewards of the [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/World Tree\|World Tree]], knights of the Order are solely responsible for the ritualistic tapping of its healing sap, ensuring that it is never again over-harvested as it was before their founding. 
+
+In the [[The Ages/Current Age\|Current Age]], although the Order still maintains its headquarters in [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/Pavarax's Frosthold\|Pavarax's Frosthold]], most Order Knights travel the lands of [[The World/Dor'Balar\|Dor'Balar]], seeking to defend those in need and protect the natural lands of the continent. While the Order primarily recruits from its home city, its wandering knights often take on squires to join them in their cause, bringing them back to [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/Pavarax's Frosthold\|Pavarax's Frosthold]] when their travels lead them home. 
+
+The Order accepts those of all creeds, particularly attracting individuals with an affinity toward [[The World/Divine Aspects/Ignomer\|Ignomer]] such as clerics and paladins. And the Order are eager to provide druids a place in their preceptory, most druidic circles of [[The World/Dor'Balar\|Dor'Balar]] disrespect Order Knights for their adherence to such man-made rules.
+
+The [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/Knightly Order of the World Tree\|Knightly Order of the World Tree]] has ties to both House [[The World/Divine Aspects/Stravalli\|Stravalli]], who control the [[Stravalli Highduchy\|Highduchy]] in which they're headquartered, and House [[Rohitah\|Rohitah]] for their affinity toward nature and [[The World/Divine Aspects/Ignomer\|Ignomer's]] domain. Because of this association, it's not uncommon to find a member of the Order acting as a bodyguard for a scion of these houses if they find themselves at risk. 

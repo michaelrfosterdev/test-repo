@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/theology-of-dor-balar/","created":"2025-10-23T12:09:05.304-04:00","updated":"2025-10-23T21:47:57.365-04:00"}
+{"dg-publish":true,"permalink":"/the-world/theology-of-dor-balar/","created":"2025-10-23T12:09:05.304-04:00","updated":"2025-11-02T14:25:28.615-05:00"}
 ---
 
 > "Bless us O good and generous Six, and these gifts we are about to receive from your bounty. Bless our friends and family who've come to dine with us today, that we may worship you again, come the new dawn. By their grace."
@@ -22,10 +22,10 @@ People of [[The World/Dor'Balar\|Dor'Balar]] worship the six major deities known
 - Patron deity of [[Elves\|Elves]]
 - Killed by the [[Heroes of the Hawk\|Heroes of the Hawk]] and members of the [[Rebellion of All Kinds\|Rebellion of All Kinds]] at the end of the [[The Ages/Third Age\|Third Age]]
 	- With her death, the great magic of the [[Nations/Linthirian Empire\|Linthirian Empire]] was lost, and Elves across [[The World/Dor'Balar\|Dor'Balar]] were all-but unable to produce Elven children. 
-## [[Ignomer\|Ignomer]], Goddess of Nature
+## [[The World/Divine Aspects/Ignomer\|Ignomer]], Goddess of Nature
 
 - Patron deity of [[Smallfolk\|Smallfolk]]
-## [[Urlgan\|Urlgan]], Goddess of War
+## [[The World/Divine Aspects/Urglan\|Urglan]], Goddess of War
 
 - Patron deity of [[Orcs\|Orcs]]
 ## [[Jvesgar\|Jvesgar]], God of Pleasure

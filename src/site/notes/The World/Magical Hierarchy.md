@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/the-world/magical-hierarchy/","created":"2025-10-20T17:40:23.969-04:00","updated":"2025-10-25T19:27:25.790-04:00"}
 ---
 
-> "Have you *heard* about what transpired at last week's Midnight Gala? I tell you, I was sitting but three seats down from that [[Stravalli\|Stravalli]] boy—fifth in line for the house seat if I recall—as he attempted to ***seduce*** the young [[Thjorvidson\|Thjorvidson]] debutante from across the table! I'd say I pity the poor girl, but with a casual wave of her wrist, she sent a nearby platter of escargot careening toward the boy, toppling him from his seat! I'll never understand those dragons, as even on the ground, staring up at his assailant, I'd swear that [[Stravalli\|Stravalli]] boy looked even more taken with her than when the night began!"
+> "Have you *heard* about what transpired at last week's Midnight Gala? I tell you, I was sitting but three seats down from that [[The World/Divine Aspects/Stravalli\|Stravalli]] boy—fifth in line for the house seat if I recall—as he attempted to ***seduce*** the young [[Thjorvidson\|Thjorvidson]] debutante from across the table! I'd say I pity the poor girl, but with a casual wave of her wrist, she sent a nearby platter of escargot careening toward the boy, toppling him from his seat! I'll never understand those dragons, as even on the ground, staring up at his assailant, I'd swear that [[The World/Divine Aspects/Stravalli\|Stravalli]] boy looked even more taken with her than when the night began!"
 > 
 > *Letter to Lady [[Yevessa Ironhide\|Yevessa Ironhide]], marked **URGENT, OPEN IMMEDIATELY***
 > *Lady [[Garzokk Shodok-Garb\|Garzokk Shodok-Garb]], Low Lady of the Great [[Shodok-Garb\|Shodok-Garb]] House of [[Nations/Jkaverstelle\|Jkaverstelle]], 3701 ASC* 
@@ -19,7 +19,7 @@ Paladins, similar to clerics, are well loved throughout the lands. As oath-bound
 Bards, sitting at the lowest rung of the "High Class" magic users, are still respected by aristocrats and commoners alike. Typically requiring a patron to fund their endeavors, bards rub enough elbows with the upper echelon of society to garner respect beyond the common laborer. 
 # Lower Class
 
-Druids—despite embodying the virtues of [[Ignomer\|Ignomer]], Goddess of Nature—are not as respected as clerics or paladins. Their often ascetic lifestyles conflict with the structure imposed by the [[Church of the Divine Aspects\|Church of the Divine Aspects]], so they typically exist outside society in communes of other druids. As such, druids are rarely seen in "civilized" society.
+Druids—despite embodying the virtues of [[The World/Divine Aspects/Ignomer\|Ignomer]], Goddess of Nature—are not as respected as clerics or paladins. Their often ascetic lifestyles conflict with the structure imposed by the [[Church of the Divine Aspects\|Church of the Divine Aspects]], so they typically exist outside society in communes of other druids. As such, druids are rarely seen in "civilized" society.
 
 Rangers, similar to druids, have a deep connection to nature. They exist closer to society and are therefore more accessible than druids, and are often hired as guides and experts on local wildlife. Even so, rangers are still among the lower class of working magic users. 
 

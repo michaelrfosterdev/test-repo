@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/intro-material/welcome-to-dor-balar/","tags":["gardenEntry"],"created":"2025-10-23T21:38:28.809-04:00","updated":"2025-11-02T10:26:44.299-05:00"}
+{"dg-publish":true,"permalink":"/intro-material/welcome-to-dor-balar/","tags":["gardenEntry"],"created":"2025-10-23T21:38:28.809-04:00","updated":"2025-11-04T17:41:12.084-05:00"}
 ---
 
 # Intro
@@ -7,15 +7,20 @@
 Welcome to the world of [[The World/Dor'Balar\|Dor'Balar]]! This wiki will act as a central repository for written information I give you about the world and the game itself. I'll periodically update this wiki with new pages, and I'll log any differences in the Change Log below. To start, please follow the link for an intro on the game:
 ### [[Intro Material/Running The Game\|Running The Game]]
 
-![Map of Dor'Balar.jpg](/img/user/Maps/Map%20of%20Dor'Balar.jpg)
+![Map of Dor'Balar.jpg|2048](/img/user/Maps/Map%20of%20Dor'Balar.jpg)
 # Change Log
 
+## 11-4-2025
+- [[Intro Material/Pronunciation Guide\|Pronunciation Guide]]: Added page
+- [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/Pavarax's Frosthold\|Pavarax's Frosthold]]: Added page
+- [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/World Tree\|World Tree]]: Added page
+- [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/Knightly Order of the World Tree\|Knightly Order of the World Tree]]: Added page
+- [[Frayedplinth Pass\|Frayedplinth Pass]]: Added page
+- [[Nations/Jkaverstelle\|Jkaverstelle]]: Added brief sections on the regions of the Kingdom
 ## 11-2-2025
 - [[Cities and Towns/Jkaverstelle/Dru-Karmaz/Letter to Kurinur Vra-Eklund\|Letter to Kurinur Vra-Eklund]]: Added page
 - [[Cities and Towns/Jkaverstelle/Dru-Karmaz/Dru-Karmaz\|Dru-Karmaz]]: Added page
-- [[Cities and Towns/Jkaverstelle/Dru-Karmaz/Letter to Kurinur Vra-Eklund\|Letter to Kurinur Vra-Eklund]]: Added page
-- [[Mortal Races/Mortal Races\|Mortal Races]]: Included some basic naming conventions for the mortal races
-
+- [[Mortal Races/Mortal Races\|Mortal Races]]: Included some basic naming conventions for some of the mortal races
 ## 10-26-2025
 
 - [[Intro Material/Running The Game\|Running The Game]]: Revised Hook section

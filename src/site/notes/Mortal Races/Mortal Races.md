@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mortal-races/mortal-races/","created":"2025-10-16T20:12:45.584-04:00","updated":"2025-11-02T09:40:33.968-05:00"}
+{"dg-publish":true,"permalink":"/mortal-races/mortal-races/","created":"2025-10-16T20:12:45.584-04:00","updated":"2025-11-03T17:55:28.700-05:00"}
 ---
 
 > "When the drinking age of any patron is in question, please consult the most up-to-date copy of the *Linthirian Code of Legal Standards*, section XII, subsection xvii, for a grid detailing the ages of maturity for all mortal races and their signifiers. Failure to comply to current drinking standards will result in a liquor license revocation for any offending establishment, with the submission of appeals to occur no earlier than 6 months post-offense. Glory to the Empire."
@@ -27,13 +27,13 @@ In [[The World/Dor'Balar\|Dor'Balar]], "Mortal Races" are another word for Human
 - Naming conventions: A lot of double-consonants, some umlauts for flavor, and that carrot above vowels. Last names can often be nordic, or a combination of multiple mineral/mining terms. E.g., [[Thjorvidson\|Thjorvidson]], Broadiron
 ## [[Smallfolk\|Smallfolk]]
 
-- Patron goddess [[Ignomer\|Ignomer]], goddess of nature
+- Patron goddess [[The World/Divine Aspects/Ignomer\|Ignomer]], goddess of nature
 - Both Gnomes and Halflings are sub-races of Smallfolk
 - Connection w/ nature and idyllic living, think Hobbits, (though that's somewhat reductive).
 - Naming conventions: Last names usually just a combination of two natural stuff. E.g., [[Rosewood\|Rosewood]].
 ## [[Orcs\|Orcs]]
 
-- Patron goddess [[Urlgan\|Urlgan]], goddess of war
+- Patron goddess [[The World/Divine Aspects/Urglan\|Urglan]], goddess of war
 - They value strength, directness, loyalty
 - Naming conventions: Names are heavy on the consonants and series of simple sharp phrases. Hyphens are often common with Orc names and places. E.g., [[Urthgar Vra-Eklund\|Urthgar Vra-Eklund]], [[Cities and Towns/Jkaverstelle/Dru-Karmaz/Dru-Karmaz\|Dru-Karmaz]].
 # Uncommon Species
@@ -46,7 +46,7 @@ In [[The World/Dor'Balar\|Dor'Balar]], "Mortal Races" are another word for Human
 - Naming conventions: Names are typically pretty euphonic with a lot of "i" sounds. Very much LOTR elves. Common to have apostrophes in names. E.g., [[Cities and Towns/Linthir'Aprimos\|Linthir'Aprimos]], Syrillian.
 ## [[Eladrin\|Eladrin]]
 
-- No patron deity, but tend to worship and be favored by [[Ignomer\|Ignomer]], goddess of nature
+- No patron deity, but tend to worship and be favored by [[The World/Divine Aspects/Ignomer\|Ignomer]], goddess of nature
 - 
 # Half-folk Species
 
@@ -56,7 +56,7 @@ Humans, embodying the virtue of their patron deity [[Jvesgar\|Jvesgar]], god of 
 - Created in the [[The Ages/Second Age\|Second Age]] by the [[Draconic Dynasty\|Draconic Dynasty]].
 - Patron deity of [[The World/Divine Aspects/Strozkus\|Strozkus]], God of the Stars.
 	- Strozkus was originally the patron deity of dragons, but sided with the mortal races in the [[Syrillian Alliance\|Syrillian Alliance]].
-- Naming conventions: Either draconic with a lot of rough consonants, or similar to human eastern-European names or other human names. E.g., [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/Pavarax's Frosthold\|Pavarax]], [[Stravalli\|Stravalli]].
+- Naming conventions: Either draconic with a lot of rough consonants, or similar to human eastern-European names or other human names. E.g., [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/Pavarax's Frosthold\|Pavarax]], [[The World/Divine Aspects/Stravalli\|Stravalli]].
 ## [[Mortal Races/Goliaths\|Goliaths]]
 
 - Created in the [[The Ages/Second Age\|Second Age]] by the [[Kingdom of Giants\|Kingdom of Giants]] as half-human half-giant.
