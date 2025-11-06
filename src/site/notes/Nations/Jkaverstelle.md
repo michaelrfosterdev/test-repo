@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nations/jkaverstelle/","created":"2025-10-18T12:28:30.272-04:00","updated":"2025-11-04T17:21:21.423-05:00"}
+{"dg-publish":true,"permalink":"/nations/jkaverstelle/","created":"2025-10-18T12:28:30.272-04:00","updated":"2025-11-04T19:14:23.545-05:00"}
 ---
 
 > "Society is unity in diversity. The valor and virtue of the [[Rebellion of All Kinds\|Rebellion of All Kinds]] and the [[Heroes of the Hawk\|Heroes of the Hawk]] live within [[Nations/Jkaverstelle\|Jkaverstelle]]. Her people manifold, her houses united, the power of our great Kingdom shall see its citizens weather any storm and rise steadfast to meet the challenges of our [[The Ages/Current Age\|Current Age]]."
@@ -10,7 +10,8 @@
 
 Meaning "Land of Gold" in ancient [[Human\|Human]], the Kingdom of Jkaverstelle lies on the western side of [[The World/Dor'Balar\|Dor'Balar]], and is currently one of two major nations of on the continent, the other being [[Nations/Anbuur\|Anbuur]]. Jkaverstelle is an aristocratic monarchy ruled by its royal family—the House of [[Forsström\|Forsström]]—who is advised by the King's Council made up of five Great Houses of Jkaverstelle. In ancient time, these were the homelands of [[Mortal Races/Humans\|Humans]], [[Smallfolk\|Smallfolk]], and [[Orcs\|Orcs]]. This is also the nation where we begin our adventure, and is likely the home kingdom of most of our players. 
 
-![Map of Dor'Balar.jpg|2048](/img/user/Maps/Map%20of%20Dor'Balar.jpg)
+![Map of Dor'Balar.jpg](/img/user/Maps/Map%20of%20Dor'Balar.jpg)
+https://imgur.com/a/map-of-dorbalar-1g7xxgk
 
 # Basic Information
 
@@ -33,7 +34,7 @@ After the fall of the [[Nations/Linthirian Empire\|Linthirian Empire]] at the en
 - Controlled by House [[Amfrey\|Amfrey]]
 - Locations:
 	- [[Barabosa\|Barabosa]] (Small berserker village)
-	- [[Frayedplinth Pass\|Frayedplinth Pass]] (Narrow mountain pass connecting [[Nations/Jkaverstelle\|Jkaverstelle]] and [[Nations/Anbuur\|Anbuur]])
+	- [[Cities and Towns/Jkaverstelle/Frayedplinth Pass\|Frayedplinth Pass]] (Narrow mountain pass connecting [[Nations/Jkaverstelle\|Jkaverstelle]] and [[Nations/Anbuur\|Anbuur]])
 ### [[Rohitah Southmarch\|Rohitah Southmarch]]
 
 - The border region in southeast [[Nations/Jkaverstelle\|Jkaverstelle]]

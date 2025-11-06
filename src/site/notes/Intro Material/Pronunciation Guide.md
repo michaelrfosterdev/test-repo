@@ -36,7 +36,7 @@
 [[Kethryllia\|Kethryllia]]: keth-RILL-iya
 [[The World/Divine Aspects/Ignomer\|Ignomer]]: IGG-gnomer
 [[The World/Divine Aspects/Urglan\|Urglan]]: ERG-lawn
-[[Jvesgar\|Jvesgar]]: VES-gar
+[[The World/Divine Aspects/Jvesgar\|Jvesgar]]: VES-gar
 ## [[Nations/Jkaverstelle\|Great Houses of Jkaverstelle]]
 [[Amfrey\|Amfrey]]: AHM-fray
 [[Rohitah\|Rohitah]]: row-HEAT-ah

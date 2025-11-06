@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities-and-towns/jkaverstelle/dru-karmaz/letter-to-kurinur-vra-eklund/","created":"2025-11-01T15:44:51.728-04:00","updated":"2025-11-02T14:07:01.605-05:00"}
+{"dg-publish":true,"permalink":"/cities-and-towns/jkaverstelle/dru-karmaz/letter-to-kurinur-vra-eklund/","created":"2025-11-01T15:44:51.728-04:00","updated":"2025-11-04T19:15:37.759-05:00"}
 ---
 
 > Dear [[Kurinur Vra-Eklund\|Kurinur]],
@@ -13,4 +13,5 @@
 > 
 > P.S. I'm bringing a gift for the little one! I'm no carpenter, but I think I did a decent job all things considered.
 
-![Letter to Kurinur Vra-Eklund.jpg](/img/user/Cities%20and%20Towns/Jkaverstelle/Dru-Karmaz/Letter%20to%20Kurinur%20Vra-Eklund.jpg)
+![Letter to Kurinur Vra-Eklund.jpg](/img/user/Cities%20and%20Towns/Jkaverstelle/Dru-Karmaz/Images/Letter%20to%20Kurinur%20Vra-Eklund.jpg)
+https://imgur.com/a/XxMYHYm

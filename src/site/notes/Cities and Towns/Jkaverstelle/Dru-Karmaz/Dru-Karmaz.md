@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cities-and-towns/jkaverstelle/dru-karmaz/dru-karmaz/","created":"2025-10-18T11:42:50.821-04:00","updated":"2025-11-02T09:13:49.296-05:00"}
+{"dg-publish":true,"permalink":"/cities-and-towns/jkaverstelle/dru-karmaz/dru-karmaz/","created":"2025-10-18T11:42:50.821-04:00","updated":"2025-11-04T19:16:50.625-05:00"}
 ---
 
 > "Keep "ORGANIZED LABOR" out of your COIN PURSEES. Fight for your RIGHT to WORK regardless of membership in some labor union. In the ALC, it's YOUR RIGHT to CHOOSE."
@@ -14,6 +14,7 @@
 Running north-to-south through the center of town is the [[Kuku-Lum\|Kuku-Lum]] river, originating in the northern [[Golden Highlands\|Golden Highlands]], emptying in lake [[Kuku-Karmaz\|Kuku-Karmaz]] south of town, and powering the local lumber mill crucial to the town's economy.
 
 ![dru-karmaz.png](/img/user/Maps/dru-karmaz.png)
+https://imgur.com/a/DL3eqN7
 # Geography
 
 Dru-Karmaz is a town near the south-east border of [[Nations/Jkaverstelle\|Jkaverstelle]] in the [[Rohitah Southmarch\|Rohitah Southmarch]]. It's surrounded on all sides by woods with the [[Kuku-Lum\|Kuku-Lum]] river bisecting the town, flowing south for 30 minutes before depositing into lake [[Kuku-Karmaz\|Kuku-Karmaz]]. The local lumber baron [[First Adventure/Landers Amfrey\|Landers Amfrey]] lives in an isolated manor 20 minutes south-west of the town. 

@@ -28,7 +28,7 @@ People of [[The World/Dor'Balar\|Dor'Balar]] worship the six major deities known
 ## [[The World/Divine Aspects/Urglan\|Urglan]], Goddess of War
 
 - Patron deity of [[Orcs\|Orcs]]
-## [[Jvesgar\|Jvesgar]], God of Pleasure
+## [[The World/Divine Aspects/Jvesgar\|Jvesgar]], God of Pleasure
 
 - Patron deity of [[Mortal Races/Humans\|Humans]] and [[Half-folk\|Half-folk]]
 

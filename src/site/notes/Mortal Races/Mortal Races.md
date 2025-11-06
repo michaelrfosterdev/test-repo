@@ -16,7 +16,7 @@ In [[The World/Dor'Balar\|Dor'Balar]], "Mortal Races" are another word for Human
 
 ## [[Mortal Races/Humans\|Humans]]
 
-- Patron god [[Jvesgar\|Jvesgar]], god of pleasure. Giving them the ability to produce offspring with all mortal races.
+- Patron god [[The World/Divine Aspects/Jvesgar\|Jvesgar]], god of pleasure. Giving them the ability to produce offspring with all mortal races.
 - Close ties with [[Half-folk\|Half-folk]] sharing their human blood.
 - Naming conventions: often eastern-European, or just regular human names. 
 ## [[Mortal Races/Dwarves\|Dwarves]]
@@ -50,7 +50,7 @@ In [[The World/Dor'Balar\|Dor'Balar]], "Mortal Races" are another word for Human
 - 
 # Half-folk Species
 
-Humans, embodying the virtue of their patron deity [[Jvesgar\|Jvesgar]], god of pleasure, are uniquely capable of producing offspring with every mortal race (and some non-mortal ones). The half-folk, as these people are called, historically share a close kinship with humans. And likewise, [[Jvesgar\|Jvesgar]] acts as the patron deity for any mortal race sharing human blood—and though the Dragonborn have their own deity, [[Jvesgar\|Jvesgar]] is said to view them with the same affection as all other half-folk. All half-folk are relatively uncommon, but their presence is still felt throughout [[The World/Dor'Balar\|Dor'Balar]].
+Humans, embodying the virtue of their patron deity [[The World/Divine Aspects/Jvesgar\|Jvesgar]], god of pleasure, are uniquely capable of producing offspring with every mortal race (and some non-mortal ones). The half-folk, as these people are called, historically share a close kinship with humans. And likewise, [[The World/Divine Aspects/Jvesgar\|Jvesgar]] acts as the patron deity for any mortal race sharing human blood—and though the Dragonborn have their own deity, [[The World/Divine Aspects/Jvesgar\|Jvesgar]] is said to view them with the same affection as all other half-folk. All half-folk are relatively uncommon, but their presence is still felt throughout [[The World/Dor'Balar\|Dor'Balar]].
 ## [[Mortal Races/Dragonborn\|Dragonborn]]
 
 - Created in the [[The Ages/Second Age\|Second Age]] by the [[Draconic Dynasty\|Draconic Dynasty]].

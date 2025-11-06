@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/brief-history-of-dor-balar/","created":"2025-10-21T12:53:30.767-04:00","updated":"2025-11-02T14:07:35.186-05:00"}
+{"dg-publish":true,"permalink":"/the-world/brief-history-of-dor-balar/","created":"2025-10-21T12:53:30.767-04:00","updated":"2025-11-04T19:14:16.161-05:00"}
 ---
 
 > "I fear not the demons wielding spears of hellfire, nor the fey spiriting away our soldiers in the night. I fear not the divine power scorching through this blade, nor the radiance which threatens to subsume my mind. No. I fear the bottomless malice that roils within the hearts of mortal men. And I fear that in banishing these enemies to hell, we damn ourselves to one of our own making."
@@ -71,4 +71,5 @@ This period of peace, however, was never meant to last. And as generations pass 
 
 It's been 75 years since the last of the [[Nations/Jkaverstelle\|Great Houses of Jkaverstelle]] joined the Kingdom. And for most of that, the nations of [[Nations/Anbuur\|Anbuur]] and [[Nations/Jkaverstelle\|Jkaverstelle]] and the peoples of [[The World/Dor'Balar\|Dor'Balar]] have enjoyed relative peace. In the last 10 years however, a number of aggressive moves from both nations have seen military tension and anxieties rise throughout the continent. At the same time, cult sightings and evidence of demonic activity have been on the rise, and despite efforts to investigate, no one can identify the cause.
 
-![Map of Dor'Balar.jpg|2048](/img/user/Maps/Map%20of%20Dor'Balar.jpg)
+![Map of Dor'Balar.jpg](/img/user/Maps/Map%20of%20Dor'Balar.jpg)
+https://imgur.com/a/map-of-dorbalar-1g7xxgk
