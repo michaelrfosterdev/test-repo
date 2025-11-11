@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/intro-material/welcome-to-dor-balar/","tags":["gardenEntry"],"created":"2025-10-23T21:38:28.809-04:00","updated":"2025-11-05T20:07:31.089-05:00"}
+{"dg-publish":true,"permalink":"/intro-material/welcome-to-dor-balar/","tags":["gardenEntry"],"created":"2025-10-23T21:38:28.809-04:00","updated":"2025-11-11T15:31:50.715-05:00"}
 ---
 
+> [[The World/Dor'Balar\|Dor'Balar]] is a realm defined by tyranny and the people courageous enough to rally against it. 
+> 
+> Following the death of [[Kethryllia\|Kethryllia]]—goddess of magic—and the fall of the [[Elven\|Elven]] [[Nations/Linthirian Empire\|Linthirian Empire]] 400 years ago, the promised peace of the [[The Ages/Current Age\|Current Age]] has not come to pass. Now on the brink of war, this world finds itself again in need of heroes to fight against those whose greed and ambition threaten a peace so long sought.  
+> 
+> As adventurers, you'll face enemies well beyond your power and work to uncover truths that certain forces would rather see buried. Be smart. Be careful. And be observant. 
 # Intro
 
 Welcome to the world of [[The World/Dor'Balar\|Dor'Balar]]! This wiki will act as a central repository for written information I give you about the world and the game itself. I'll periodically update this wiki with new pages, and I'll log any differences in the Change Log below. To start, please follow the link for an intro on the game:
@@ -11,6 +16,10 @@ Welcome to the world of [[The World/Dor'Balar\|Dor'Balar]]! This wiki will act a
 https://imgur.com/a/map-of-dorbalar-1g7xxgk
 # Change Log
 
+## 11-11-2025
+- [[Notes/Session Notes\|Session Notes]]: Added page
+- [[Notes/Dru-Karmaz Act 1\|Dru-Karmaz Act 1]]: Added page
+- [[Cities and Towns/Jkaverstelle/Kithraia/Kithraia\|Kithraia]]: Added page quote
 ## 11-5-2025
 - [[Cities and Towns/Jkaverstelle/Kithraia/Kithraia\|Kithraia]]: Added page
 - [[Cities and Towns/Jkaverstelle/Kithraia/Roseström University\|Roseström University]]: Added page

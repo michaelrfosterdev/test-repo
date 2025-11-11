@@ -40,7 +40,7 @@
 ## [[Nations/Jkaverstelle\|Great Houses of Jkaverstelle]]
 [[Amfrey\|Amfrey]]: AHM-fray
 [[Rohitah\|Rohitah]]: row-HEAT-ah
-[[The World/Divine Aspects/Stravalli\|Stravalli]]: straw-VAH-lee
+[[Stravalli\|Stravalli]]: straw-VAH-lee
 [[Thjorvidson\|Thjorvidson]]: THYORE-vid-son
 [[Rosewood\|Rosewood]]: ROSE-wood
 [[Forsström\|Forsström]]: FORCE-strom

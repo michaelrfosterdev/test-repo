@@ -45,7 +45,7 @@ After the fall of the [[Nations/Linthirian Empire\|Linthirian Empire]] at the en
 ### [[Stravalli Highduchy\|Stravalli Highduchy]]
 
 - The mountainous region in southwest [[Nations/Jkaverstelle\|Jkaverstelle]]
-- Controlled by House [[The World/Divine Aspects/Stravalli\|Stravalli]]
+- Controlled by House [[Stravalli\|Stravalli]]
 - Locations:
 	- [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/Pavarax's Frosthold\|Pavarax's Frosthold]] (Duchy-capital in the mountains)
 ### [[Thjorvidson Lowduchy\|Thjorvidson Lowduchy]]
@@ -79,7 +79,7 @@ By the end of the Fractured States Period only 75 years ago, all states in easte
 - Nature house
 - Family of Orcs
 - Head of House: Marchioness [[Zevadall Rohitah\|Zevadall Rohitah]]
-## House [[The World/Divine Aspects/Stravalli\|Stravalli]]
+## House [[Stravalli\|Stravalli]]
 
 - Control over the [[Stravalli Highduchy\|Stravalli Highduchy]], the mountainous region in southwest [[Nations/Jkaverstelle\|Jkaverstelle]], and the duchy-capital city of [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/Pavarax's Frosthold\|Pavarax's Frosthold]]
 - Martial house

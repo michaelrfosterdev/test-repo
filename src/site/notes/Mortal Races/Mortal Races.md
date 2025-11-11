@@ -56,7 +56,7 @@ Humans, embodying the virtue of their patron deity [[The World/Divine Aspects/Jv
 - Created in the [[The Ages/Second Age\|Second Age]] by the [[Draconic Dynasty\|Draconic Dynasty]].
 - Patron deity of [[The World/Divine Aspects/Strozkus\|Strozkus]], God of the Stars.
 	- Strozkus was originally the patron deity of dragons, but sided with the mortal races in the [[Syrillian Alliance\|Syrillian Alliance]].
-- Naming conventions: Either draconic with a lot of rough consonants, or similar to human eastern-European names or other human names. E.g., [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/Pavarax's Frosthold\|Pavarax]], [[The World/Divine Aspects/Stravalli\|Stravalli]].
+- Naming conventions: Either draconic with a lot of rough consonants, or similar to human eastern-European names or other human names. E.g., [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/Pavarax's Frosthold\|Pavarax]], [[Stravalli\|Stravalli]].
 ## [[Mortal Races/Goliaths\|Goliaths]]
 
 - Created in the [[The Ages/Second Age\|Second Age]] by the [[Kingdom of Giants\|Kingdom of Giants]] as half-human half-giant.
