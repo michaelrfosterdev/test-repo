@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/cities-and-towns/jkaverstelle/kithraia/honored-watch/","created":"2025-11-03T18:26:36.011-05:00","updated":"2025-11-13T20:42:20.249-05:00"}
+---
+
+> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+> 
+> Where it was found
+> Author, explanation of the author, year
+
+# Basic Info
+
+The [[Cities and Towns/Jkaverstelle/Kithraia/Honored Watch\|Honored Watch]] is the elite guard force of [[Cities and Towns/Jkaverstelle/Kithraia/Kithraia\|Kithraia]], tasked with protecting the city, the [[Forsström\|Forsström]] royal family, and the [[Nations/Jkaverstelle\|Great Houses of Jkaverstelle]]. Their headquarters is the [[Spire of the Honored Watch\|Spire of the Honored Watch]], an impressive building marked obviously by the large iron spire standing tall in its courtyard, visible in most parts of the city. Beyond their headquarters, the [[Cities and Towns/Jkaverstelle/Kithraia/Honored Watch\|Honored Watch]] manages a number of guard posts around the city, each marked with smaller spires visible in their respective neighborhoods. 
+
+The spire is supposed to resemble [[Magic Items/Hatal'Ishtar\|Hatal'Ishtar]]—an ancient [[The Ages/First Age\|First Age]] spear said to be wielded by a [[Forsström\|Forsström]] warrior against the forces of [[The World/Dor'Daedeloth\|Dor'Daedeloth]]. According to legend, this spear was freely relinquished by the [[Forsström\|Forsström]] family at the end of the [[The Ages/First Age\|First Age]], returned to the gods instead of horded for its power. In memory of this [[The Ages/First Age\|First Age]] heroism and humility, the [[Cities and Towns/Jkaverstelle/Kithraia/Honored Watch\|Honored Watch]] pay respect to this symbol with spires signaling their posts and the spear-like iconography that marks their weapons and armor. 
+
+Membership in the [[Cities and Towns/Jkaverstelle/Kithraia/Honored Watch\|Honored Watch]] is exclusive, and typically only granted to those with respectable pedigree or those who rise above their station to the peak of martial prowess. Soldiers in this organization are expected to train under an intense mentorship of a current [[Cities and Towns/Jkaverstelle/Kithraia/Honored Watch\|Honored Watch]] member, or in a martial school in the [[Stravalli Highduchy\|Stravalli Highduchy]]. By the end of their training, newly minted members of the Watch are afforded wealth, prestige, and responsibility to serve [[Cities and Towns/Jkaverstelle/Kithraia/Kithraia\|Kithraia]] and their Kingdom as a whole. 
+
+Due to the exclusive nature of the [[Cities and Towns/Jkaverstelle/Kithraia/Honored Watch\|Honored Watch]], they alone cannot protect all of [[Cities and Towns/Jkaverstelle/Kithraia/Kithraia\|Kithraia]]. Instead, they deputize aspiring individuals or soldier bands to fill out their ranks in [[Cities and Towns/Jkaverstelle/Kithraia/Kithraia\|Kithraian]] neighborhoods, allowing the [[Cities and Towns/Jkaverstelle/Kithraia/Honored Watch\|Honored Watch]] to police large areas while keeping their members elite. Similarly, the [[Cities and Towns/Jkaverstelle/Kithraia/Honored Watch\|Honored Watch]] will call upon other reputable organizations—such as the [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/Knightly Order of the World Tree\|Knightly Order of the World Tree]] and the [[Cities and Towns/Jkaverstelle/Kithraia/Band of the Boundless\|Band of the Boundless]]—to support their efforts beyond [[Cities and Towns/Jkaverstelle/Kithraia/Kithraia\|Kithraia's]] borders.

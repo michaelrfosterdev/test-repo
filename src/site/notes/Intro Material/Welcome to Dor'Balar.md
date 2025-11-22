@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/intro-material/welcome-to-dor-balar/","tags":["gardenEntry"],"created":"2025-10-23T21:38:28.809-04:00","updated":"2025-11-11T15:31:50.715-05:00"}
+{"dg-publish":true,"permalink":"/intro-material/welcome-to-dor-balar/","tags":["gardenEntry"],"created":"2025-10-23T21:38:28.809-04:00","updated":"2025-11-22T16:53:46.849-05:00"}
 ---
 
 > [[The World/Dor'Balar\|Dor'Balar]] is a realm defined by tyranny and the people courageous enough to rally against it. 
@@ -16,9 +16,14 @@ Welcome to the world of [[The World/Dor'Balar\|Dor'Balar]]! This wiki will act a
 https://imgur.com/a/map-of-dorbalar-1g7xxgk
 # Change Log
 
+## 11-??-2025
+- [[Cities and Towns/Jkaverstelle/Kithraia/Band of the Boundless\|Band of the Boundless]]: Added page
+- [[Cities and Towns/Jkaverstelle/Kithraia/Raven's Nest\|Raven's Nest]]: Added page
+- [[Cities and Towns/Jkaverstelle/Kithraia/Honored Watch\|Honored Watch]]: Added page
+- [[The World/Cults\|Cults]]: Added page
 ## 11-11-2025
-- [[Notes/Session Notes\|Session Notes]]: Added page
-- [[Notes/Dru-Karmaz Act 1\|Dru-Karmaz Act 1]]: Added page
+- [[Session Notes/Session Notes\|Session Notes]]: Added page
+- [[Session Notes/Dru-Karmaz Act 1\|Dru-Karmaz Act 1]]: Added page
 - [[Cities and Towns/Jkaverstelle/Kithraia/Kithraia\|Kithraia]]: Added page quote
 ## 11-5-2025
 - [[Cities and Towns/Jkaverstelle/Kithraia/Kithraia\|Kithraia]]: Added page
@@ -34,7 +39,7 @@ https://imgur.com/a/map-of-dorbalar-1g7xxgk
 ## 11-2-2025
 - [[Cities and Towns/Jkaverstelle/Dru-Karmaz/Letter to Kurinur Vra-Eklund\|Letter to Kurinur Vra-Eklund]]: Added page
 - [[Cities and Towns/Jkaverstelle/Dru-Karmaz/Dru-Karmaz\|Dru-Karmaz]]: Added page
-- [[Mortal Races/Mortal Races\|Mortal Races]]: Included some basic naming conventions for some of the mortal races
+- [[Creatures/Mortal Races/Mortal Races\|Mortal Races]]: Included some basic naming conventions for some of the mortal races
 ## 10-26-2025
 
 - [[Intro Material/Running The Game\|Running The Game]]: Revised Hook section
@@ -50,4 +55,4 @@ https://imgur.com/a/map-of-dorbalar-1g7xxgk
 - [[The World/Brief History of Dor'Balar\|Brief History of Dor'Balar]]: Added page
 - [[The World/Magical Hierarchy\|Magical Hierarchy]]: Added page
 - [[The World/Theology of Dor'Balar\|Theology of Dor'Balar]]: Added page
-- [[Mortal Races/Mortal Races\|Mortal Races]]: Added page
+- [[Creatures/Mortal Races/Mortal Races\|Mortal Races]]: Added page

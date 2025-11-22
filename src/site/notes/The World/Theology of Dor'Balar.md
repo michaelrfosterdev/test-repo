@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/theology-of-dor-balar/","created":"2025-10-23T12:09:05.304-04:00","updated":"2025-11-07T12:06:41.541-05:00"}
+{"dg-publish":true,"permalink":"/the-world/theology-of-dor-balar/","created":"2025-10-23T12:09:05.304-04:00","updated":"2025-11-11T17:47:56.109-05:00"}
 ---
 
 > "Bless us O good and generous Six, and these gifts we are about to receive from your bounty. Bless our friends and family who've come to dine with us today, that we may worship you again, come the new dawn. By their grace."
@@ -12,12 +12,12 @@
 People of [[The World/Dor'Balar\|Dor'Balar]] worship the six major deities known as the [[The World/Divine Aspects\|Divine Aspects]]. Information on these deities and their domains are as follows:
 ## [[The World/Divine Aspects/Strozkus\|Strozkus]], God of the Stars
 
-- Patron deity of [[Mortal Races/Dragonborn\|Dragonborn]]
-- Originally the patron deity of the [[Dragons\|Dragons]], [[The World/Divine Aspects/Strozkus\|Strozkus]] favored the [[Mortal Races/Dragonborn\|Dragonborn]] and the other [[Mortal Races/Mortal Races\|mortal races]] in the [[Syrillian Alliance\|Syrillian Alliance]] at the end of the [[The Ages/Second Age\|Second Age]] onward.
+- Patron deity of [[Creatures/Mortal Races/Dragonborn\|Dragonborn]]
+- Originally the patron deity of the [[Creatures/Dragons\|Dragons]], [[The World/Divine Aspects/Strozkus\|Strozkus]] favored the [[Creatures/Mortal Races/Dragonborn\|Dragonborn]] and the other [[Creatures/Mortal Races/Mortal Races\|Mortal Races]] in the [[Syrillian Alliance\|Syrillian Alliance]] at the end of the [[The Ages/Second Age\|Second Age]] onward.
 - Domains: The stars. Divination. Time, past and future.
 ## [[The World/Divine Aspects/Gudmunhil\|Gudmunhil]], God of the Moon
 
-- Patron deity of [[Mortal Races/Dwarves\|Dwarves]]
+- Patron deity of [[Creatures/Mortal Races/Dwarves\|Dwarves]]
 - Domains: The moon. Change/transition. Wolves/nighttime creates. Waves and the ocean. 
 ## [[Kethryllia\|Kethryllia]], Goddess of Magic
 
@@ -35,7 +35,7 @@ People of [[The World/Dor'Balar\|Dor'Balar]] worship the six major deities known
 - Domains: War. Heroes and valor. Rebellion. 
 ## [[The World/Divine Aspects/Jvesgar\|Jvesgar]], God of Pleasure
 
-- Patron deity of [[Mortal Races/Humans\|Humans]] and [[Half-folk\|Half-folk]]
+- Patron deity of [[Creatures/Mortal Races/Humans\|Humans]] and [[Half-folk\|Half-folk]]
 - Domains: Pleasure. Love. Hedonism. Wine. Joy in life. 
 # The Afterlife
 
