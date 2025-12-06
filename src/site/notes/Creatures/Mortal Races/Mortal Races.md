@@ -35,7 +35,7 @@ In [[The World/Dor'Balar\|Dor'Balar]], "Mortal Races" are another word for Human
 
 - Patron goddess [[The World/Divine Aspects/Urglan\|Urglan]], goddess of war
 - They value strength, directness, loyalty
-- Naming conventions: Names are heavy on the consonants and series of simple sharp phrases. Hyphens are often common with Orc names and places. E.g., [[Urthgar Vra-Eklund\|Urthgar Vra-Eklund]], [[Cities and Towns/Jkaverstelle/Dru-Karmaz/Dru-Karmaz\|Dru-Karmaz]].
+- Naming conventions: Names are heavy on the consonants and series of simple sharp phrases. Hyphens are often common with Orc names and places. E.g., [[Cities and Towns/Jkaverstelle/Dru-Karmaz/Urthgar Vra-Eklund\|Urthgar Vra-Eklund]], [[Cities and Towns/Jkaverstelle/Dru-Karmaz/Dru-Karmaz\|Dru-Karmaz]].
 # Uncommon Species
 
 ## [[Elves\|Elves]]

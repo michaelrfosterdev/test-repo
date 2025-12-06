@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-notes/","created":"2025-11-11T15:12:59.200-05:00","updated":"2025-11-21T14:56:23.293-05:00"}
+{"dg-publish":true,"permalink":"/session-notes/session-notes/","created":"2025-11-11T15:12:59.200-05:00","updated":"2025-12-04T21:44:24.640-05:00"}
 ---
 
 > "Write everything down! Write everything down! We keep forgetting, keep forgetting, keep forgetting! Look to the stars and see our past, see our present, see our future. None of them understand, they can't understand, we will make them understand..."
 > 
 > *Excerpt from the 'Book of the Stars'*
-> *The Mad Prophet, founder of the [[Cult of the Stars\|Cult of the Stars]], 2978 ASC*
+> *The Mad Prophet, founder of the [[Organizations/Cults/Cult of the Stars\|Cult of the Stars]], 2978 ASC*
 # Basic Information
 
 This page will be used to manage the various player-facing session notes for future reference. These notes will contain basic overviews of what we accomplished in each session, but they will *not* include specific information about the clues you may have learned. Use these notes as a high level refresher for session events and major plot beats. 
@@ -15,3 +15,4 @@ This page will be used to manage the various player-facing session notes for fut
 The party investigates rumors of demons in the small lumber village of [[Cities and Towns/Jkaverstelle/Dru-Karmaz/Dru-Karmaz\|Dru-Karmaz]]. This arc began on October 18th, 3713 ASC. 
 
 - [[Session Notes/Dru-Karmaz Act 1\|Dru-Karmaz Act 1]]
+- [[Session Notes/Dru-Karmaz Act 2\|Dru-Karmaz Act 2]]

@@ -9,7 +9,7 @@
 > Still, if it'll calm the citizens, I'll perform a sweep of the woods in search of their "demon" before leaving for [[Cities and Towns/Jkaverstelle/Kithraia/Kithraia\|Kithraia]]. And I swear, if [[Guiles\|Guiles]] stirs up any more trouble, I'm dumping the paperwork on Deputy [[Bronson\|Bronson]]. I love you, and I'll see you soon.
 > 
 > With love,
-> [[Urthgar Vra-Eklund\|Urthgar]]
+> [[Cities and Towns/Jkaverstelle/Dru-Karmaz/Urthgar Vra-Eklund\|Urthgar]]
 > 
 > P.S. I'm bringing a gift for the little one! I'm no carpenter, but I think I did a decent job all things considered.
 

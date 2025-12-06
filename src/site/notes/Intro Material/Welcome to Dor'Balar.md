@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/intro-material/welcome-to-dor-balar/","tags":["gardenEntry"],"created":"2025-10-23T21:38:28.809-04:00","updated":"2025-11-22T16:53:46.849-05:00"}
+{"dg-publish":true,"permalink":"/intro-material/welcome-to-dor-balar/","tags":["gardenEntry"],"created":"2025-10-23T21:38:28.809-04:00","updated":"2025-12-06T14:56:11.991-05:00"}
 ---
 
 > [[The World/Dor'Balar\|Dor'Balar]] is a realm defined by tyranny and the people courageous enough to rally against it. 
 > 
-> Following the death of [[Kethryllia\|Kethryllia]]—goddess of magic—and the fall of the [[Elven\|Elven]] [[Nations/Linthirian Empire\|Linthirian Empire]] 400 years ago, the promised peace of the [[The Ages/Current Age\|Current Age]] has not come to pass. Now on the brink of war, this world finds itself again in need of heroes to fight against those whose greed and ambition threaten a peace so long sought.  
+> Following the death of [[Kethryllia\|Kethryllia]]—goddess of magic—and the fall of the [[Nations/Linthirian Empire\|Linthirian Empire]] 400 years ago, the promised peace of the [[The Ages/Current Age\|Current Age]] has not come to pass. Now on the brink of war, this world finds itself again in need of heroes to fight against those whose greed and ambition threaten a peace so long sought.  
 > 
 > As adventurers, you'll face enemies well beyond your power and work to uncover truths that certain forces would rather see buried. Be smart. Be careful. And be observant. 
 # Intro
@@ -16,18 +16,21 @@ Welcome to the world of [[The World/Dor'Balar\|Dor'Balar]]! This wiki will act a
 https://imgur.com/a/map-of-dorbalar-1g7xxgk
 # Change Log
 
-## 11-??-2025
-- [[Cities and Towns/Jkaverstelle/Kithraia/Band of the Boundless\|Band of the Boundless]]: Added page
+## 12-6-2025
+- [[Session Notes/Dru-Karmaz Act 2\|Dru-Karmaz Act 2]]: Added page
+- [[Message to Commander Rainer Vayle\|Message to Commander Rainer Vayle]]: Added page
+## 11-22-2025
+- [[Organizations/Band of the Boundless/Band of the Boundless\|Band of the Boundless]]: Added page
 - [[Cities and Towns/Jkaverstelle/Kithraia/Raven's Nest\|Raven's Nest]]: Added page
-- [[Cities and Towns/Jkaverstelle/Kithraia/Honored Watch\|Honored Watch]]: Added page
-- [[The World/Cults\|Cults]]: Added page
+- [[Organizations/Honored Watch\|Honored Watch]]: Added page
+- [[Organizations/Cults/Cults\|Cults]]: Added page
 ## 11-11-2025
 - [[Session Notes/Session Notes\|Session Notes]]: Added page
 - [[Session Notes/Dru-Karmaz Act 1\|Dru-Karmaz Act 1]]: Added page
 - [[Cities and Towns/Jkaverstelle/Kithraia/Kithraia\|Kithraia]]: Added page quote
 ## 11-5-2025
 - [[Cities and Towns/Jkaverstelle/Kithraia/Kithraia\|Kithraia]]: Added page
-- [[Cities and Towns/Jkaverstelle/Kithraia/Roseström University\|Roseström University]]: Added page
+- [[Cities and Towns/Jkaverstelle/Kithraia/Roseström University/Roseström University\|Roseström University]]: Added page
 - Added imgur links beneath various photos for higher quality viewing
 ## 11-4-2025
 - [[Intro Material/Pronunciation Guide\|Pronunciation Guide]]: Added page

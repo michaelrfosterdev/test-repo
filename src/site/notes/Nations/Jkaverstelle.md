@@ -72,7 +72,7 @@ By the end of the Fractured States Period only 75 years ago, all states in easte
 - Control over the [[Amfrey Northmarch\|Amfrey Northmarch]], the border region in northeast [[Nations/Jkaverstelle\|Jkaverstelle]] 
 - Crafts house
 - Family of Humans 
-- Head of House: Marquis [[Gregor Amfrey\|Gregor Amfrey]] 
+- Head of House: Marquis [[Organizations/Great Houses of Jkaverstelle/House Amfrey/Gregor Amfrey\|Gregor Amfrey]] 
 ## House [[Rohitah\|Rohitah]]
 
 - Control over the [[Rohitah Southmarch\|Rohitah Southmarch]], the border region in southeast [[Nations/Jkaverstelle\|Jkaverstelle]]

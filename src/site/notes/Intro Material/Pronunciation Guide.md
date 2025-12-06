@@ -26,7 +26,7 @@
 [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/Pavarax's Frosthold\|Pavarax's Frosthold]]: pahv-are-AXE'S FROST-hold
 ## Other locations
 
-[[Cities and Towns/Jkaverstelle/Kithraia/Roseström University\|Roseström University]]: ROSE-strom University
+[[Cities and Towns/Jkaverstelle/Kithraia/Roseström University/Roseström University\|Roseström University]]: ROSE-strom University
 [[Khazzüld\|Khazzüld]]: KAHZZ-eeld
 # Names
 
