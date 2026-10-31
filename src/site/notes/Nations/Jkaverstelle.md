@@ -17,7 +17,7 @@ https://imgur.com/a/map-of-dorbalar-1g7xxgk
 
 ## History
 
-After the fall of the [[Nations/Linthirian Empire\|Linthirian Empire]] at the end of the [[The Ages/Third Age\|Third Age]], [[The World/Dor'Balar\|Dor'Balar]] a period of relative peace. However, as the [[Creatures/Mortal Races/Dwarves\|Dwarven]] city-state of [[Cities and Towns/Anbuur/Khazâddun\|Khazâddun]] began seizing land from their southern neighbors, city-states of western [[The World/Dor'Balar\|Dor'Balar]] attempted to consolidate their own power to resist the growing threat. In a series of minor wars and alliance deals, the city-state of [[Cities and Towns/Jkaverstelle/Kithraia/Kithraia\|Kithraia]] slowly annexed all nations of west [[The World/Dor'Balar\|Dor'Balar]] and eventually established itself as the [[Nations/Jkaverstelle\|Kingdom of Jkaverstelle]]. [[Cities and Towns/Jkaverstelle/Kithraia/Kithraia\|Kithraia]] became the capital city and the ruling [[Forsström\|Forsström]] its royal family, and each annexed city-state became a Duchy/March under the control of that previous nation's ruling lineage—these families would come to be known as the [[Nations/Jkaverstelle\|Great Houses of Jkaverstelle]]. 
+After the fall of the [[Nations/Linthirian Empire\|Linthirian Empire]] at the end of the [[The Ages/Third Age\|Third Age]], [[The World/Dor'Balar\|Dor'Balar]] a period of relative peace. However, as the [[Creatures/Mortal Races/Dwarves\|Dwarven]] city-state of [[Cities and Towns/Anbuur/Khazâddun\|Khazâddun]] began seizing land from their southern neighbors, city-states of western [[The World/Dor'Balar\|Dor'Balar]] attempted to consolidate their own power to resist the growing threat. In a series of minor wars and alliance deals, the city-state of [[Cities and Towns/Jkaverstelle/Central Jkaverstelle/Kithraia/Kithraia\|Kithraia]] slowly annexed all nations of west [[The World/Dor'Balar\|Dor'Balar]] and eventually established itself as the [[Nations/Jkaverstelle\|Kingdom of Jkaverstelle]]. [[Cities and Towns/Jkaverstelle/Central Jkaverstelle/Kithraia/Kithraia\|Kithraia]] became the capital city and the ruling [[Forsström\|Forsström]] its royal family, and each annexed city-state became a Duchy/March under the control of that previous nation's ruling lineage—these families would come to be known as the [[Nations/Jkaverstelle\|Great Houses of Jkaverstelle]]. 
 
 ## Geography
 
@@ -27,11 +27,11 @@ After the fall of the [[Nations/Linthirian Empire\|Linthirian Empire]] at the en
 - The central region of [[Nations/Jkaverstelle\|Jkaverstelle]]
 - Controlled by House [[Forsström\|Forsström]]
 - Locations:
-	- [[Cities and Towns/Jkaverstelle/Kithraia/Kithraia\|Kithraia]] (Capital city of [[Nations/Jkaverstelle\|Jkaverstelle]])
+	- [[Cities and Towns/Jkaverstelle/Central Jkaverstelle/Kithraia/Kithraia\|Kithraia]] (Capital city of [[Nations/Jkaverstelle\|Jkaverstelle]])
 ### [[Amfrey Northmarch\|Amfrey Northmarch]]
 
 - The border region in northeast [[Nations/Jkaverstelle\|Jkaverstelle]]
-- Controlled by House [[Amfrey\|Amfrey]]
+- Controlled by House [[Organizations/Great Houses of Jkaverstelle/House Amfrey/Amfrey\|Amfrey]]
 - Locations:
 	- [[Barabosa\|Barabosa]] (Small berserker village)
 	- [[Cities and Towns/Jkaverstelle/Frayedplinth Pass\|Frayedplinth Pass]] (Narrow mountain pass connecting [[Nations/Jkaverstelle\|Jkaverstelle]] and [[Nations/Anbuur\|Anbuur]])
@@ -40,34 +40,34 @@ After the fall of the [[Nations/Linthirian Empire\|Linthirian Empire]] at the en
 - The border region in southeast [[Nations/Jkaverstelle\|Jkaverstelle]]
 - Controlled by House [[Rohitah\|Rohitah]]
 - Locations:
-	- [[Cities and Towns/Jkaverstelle/Dru-Karmaz/Dru-Karmaz\|Dru-Karmaz]] (Small lumber town)
+	- [[Cities and Towns/Jkaverstelle/Rohitah Southmarch/Dru-Karmaz/Dru-Karmaz\|Dru-Karmaz]] (Small lumber town)
 	- [[Morkay Timberlands\|Morkay Timberlands]] (Large forest)
 ### [[Stravalli Highduchy\|Stravalli Highduchy]]
 
 - The mountainous region in southwest [[Nations/Jkaverstelle\|Jkaverstelle]]
-- Controlled by House [[Stravalli\|Stravalli]]
+- Controlled by House [[Organizations/Great Houses of Jkaverstelle/Stravalli\|Stravalli]]
 - Locations:
 	- [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/Pavarax's Frosthold\|Pavarax's Frosthold]] (Duchy-capital in the mountains)
 ### [[Thjorvidson Lowduchy\|Thjorvidson Lowduchy]]
 
 - The marshy region in west [[Nations/Jkaverstelle\|Jkaverstelle]]
 - Controlled by House [[Thjorvidson\|Thjorvidson]]
-### [[Rosewood Portduchy\|Rosewood Portduchy]]
+### [[Cities and Towns/Jkaverstelle/Rosewood Portduchy/Rosewood Portduchy\|Rosewood Portduchy]]
 
 - The flat region in northwest [[Nations/Jkaverstelle\|Jkaverstelle]]
-- Controlled by House [[Rosewood\|Rosewood]]
+- Controlled by House [[Organizations/Great Houses of Jkaverstelle/Rosewood\|Rosewood]]
 # The [[Forsström\|Forsström]] Royal Family
 
 The Human [[Forsström\|Forsström]] family is responsible for uniting west [[The World/Dor'Balar\|Dor'Balar]] under the singular [[Nations/Jkaverstelle\|Jkaverstelle]] banner, through cunning alliances and tactful warfare. The House of [[Forsström\|Forsström]] has a potent sorcerous lineage, affording those in their clan especially potent arcane ability, even beyond those of the other [[Nations/Jkaverstelle\|Great Houses of Jkaverstelle]].
 
-- Control over central [[Nations/Jkaverstelle\|Jkaverstelle]] and its capital city [[Cities and Towns/Jkaverstelle/Kithraia/Kithraia\|Kithraia]]
+- Control over central [[Nations/Jkaverstelle\|Jkaverstelle]] and its capital city [[Cities and Towns/Jkaverstelle/Central Jkaverstelle/Kithraia/Kithraia\|Kithraia]]
 - The Royal Family of [[Nations/Jkaverstelle\|Jkaverstelle]] with especially potent sorcerous bloodline
 - Family of Humans
 - Ruled by both the Red King [[Godard Forsström\|Godard Forsström]] and the Iron Queen [[Astrid Forsström\|Astrid Forsström]]
 # The [[Great Houses of Jkaverstelle\|Great Houses of Jkaverstelle]]
 
 By the end of the Fractured States Period only 75 years ago, all states in eastern [[The World/Dor'Balar\|Dor'Balar]] had been united under the Kingdom of [[Nations/Jkaverstelle\|Jkaverstelle]]. When each state had been annexed by [[Nations/Jkaverstelle\|Jkaverstelle]], its ruling family was named as a new Great House and served to advise the ruling [[Forsström\|Forsström]] family in the [[Royal Assembly of the Great Houses\|Royal Assembly of the Great Houses]].
-## House [[Amfrey\|Amfrey]]
+## House [[Organizations/Great Houses of Jkaverstelle/House Amfrey/Amfrey\|Amfrey]]
 
 - Control over the [[Amfrey Northmarch\|Amfrey Northmarch]], the border region in northeast [[Nations/Jkaverstelle\|Jkaverstelle]] 
 - Crafts house
@@ -79,7 +79,7 @@ By the end of the Fractured States Period only 75 years ago, all states in easte
 - Nature house
 - Family of Orcs
 - Head of House: Marchioness [[Zevadall Rohitah\|Zevadall Rohitah]]
-## House [[Stravalli\|Stravalli]]
+## House [[Organizations/Great Houses of Jkaverstelle/Stravalli\|Stravalli]]
 
 - Control over the [[Stravalli Highduchy\|Stravalli Highduchy]], the mountainous region in southwest [[Nations/Jkaverstelle\|Jkaverstelle]], and the duchy-capital city of [[Cities and Towns/Jkaverstelle/Pavarax's Frosthold/Pavarax's Frosthold\|Pavarax's Frosthold]]
 - Martial house
@@ -91,9 +91,9 @@ By the end of the Fractured States Period only 75 years ago, all states in easte
 - Religious house
 - Family of Dwarves
 - Head of House: Duchess [[Hodmmöck Thjorvidson\|Hodmmöck Thjorvidson]]
-## House [[Rosewood\|Rosewood]]: 
+## House [[Organizations/Great Houses of Jkaverstelle/Rosewood\|Rosewood]]: 
 
-- Control over the [[Rosewood Portduchy\|Rosewood Portduchy]], the flat region in northwest [[Nations/Jkaverstelle\|Jkaverstelle]]
+- Control over the [[Cities and Towns/Jkaverstelle/Rosewood Portduchy/Rosewood Portduchy\|Rosewood Portduchy]], the flat region in northwest [[Nations/Jkaverstelle\|Jkaverstelle]]
 - Merchant house
 - Family of Smallfolk
 - Head of House: Portduke [[Dankin Rosewood\|Dankin Rosewood]]

@@ -12,7 +12,7 @@ This page will be used to manage the various player-facing session notes for fut
 
 # 1. Dru-Karmaz
 
-The party investigates rumors of demons in the small lumber village of [[Cities and Towns/Jkaverstelle/Dru-Karmaz/Dru-Karmaz\|Dru-Karmaz]]. This arc began on October 18th, 3713 ASC. 
+The party investigates rumors of demons in the small lumber village of [[Cities and Towns/Jkaverstelle/Rohitah Southmarch/Dru-Karmaz/Dru-Karmaz\|Dru-Karmaz]]. This arc began on October 18th, 3713 ASC. 
 
 - [[Session Notes/Dru-Karmaz Act 1\|Dru-Karmaz Act 1]]
 - [[Session Notes/Dru-Karmaz Act 2\|Dru-Karmaz Act 2]]
