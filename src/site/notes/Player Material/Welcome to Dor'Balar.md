@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-material/welcome-to-dor-balar/","tags":["gardenEntry"],"created":"2025-10-23T21:38:28.809-04:00","updated":"2025-12-06T14:56:11.991-05:00"}
+{"dg-publish":true,"permalink":"/player-material/welcome-to-dor-balar/","tags":["gardenEntry"],"created":"2025-10-23T21:38:28.809-04:00","updated":"2026-10-31T19:24:08.905-04:00"}
 ---
 
 > [[The World/Dor'Balar\|Dor'Balar]] is a realm defined by tyranny and the people courageous enough to rally against it. 
@@ -15,6 +15,9 @@ Welcome to the world of [[The World/Dor'Balar\|Dor'Balar]]! This wiki will act a
 ![Map of Dor'Balar.jpg](/img/user/Maps/Map%20of%20Dor'Balar.jpg)
 https://imgur.com/a/map-of-dorbalar-1g7xxgk
 # Change Log
+
+## 10-31-2026
+- [[Player Material/Desperate Measures\|Desperate Measures]]: Added page
 
 ## 12-6-2025
 - [[Session Notes/Dru-Karmaz Act 2\|Dru-Karmaz Act 2]]: Added page
